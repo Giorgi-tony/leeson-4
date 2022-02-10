@@ -1,0 +1,43 @@
+/*background color seems like is one propery. I don't know how to make it work like that yet.*/
+header{
+	background-color: #0865DE;
+	height: 743px;
+}
+ul{
+	list-style-type: none;
+	color: #FFFFFF;
+	font-size: 12px;
+	line-height: 18px;
+}
+li{
+	display: inline-block;
+}
+section{
+	background-color: #0865DE;
+	height: 743px;
+}
+h1{
+	color: #FFFFFF;
+	font-size: 30px;
+	line-height: 43px;
+}
+.first-article{
+	font-size: 14px;
+	line-height: 33.3;
+	color: #D1D1D1;
+}
+h2{
+	color: #FFFFFF;
+	font-size: 25px;
+	line-height: 30px;
+}
+.second-article{
+	font-size: 25px;
+	line-height: 44xp;
+	color: #D1D1D1;
+}
+em{
+	font-size: 22px;
+	line-height: 44xp;
+	color: #D1D1D1;
+}
